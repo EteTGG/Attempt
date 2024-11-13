@@ -1,0 +1,10 @@
+{
+    "known multiverse" : [
+        {"id":1, "number": 16, "name": "Universe 1", "nickname": "Green Planet"},
+        {"id":2, "number": 89, "name": "Universe 89", "nickname": "Amber Realm"},
+        {"id":3, "number": 1, "name": "Universe 1", "nickname": "The First Universe"},
+        {"id":4, "number": 127, "name": "Universe 127", "nickname": "Old Earth"},
+        {"id":5, "number": 5000, "name": "Universe 5000", "nickname": "Future World"}
+
+    ]
+}
