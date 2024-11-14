@@ -1,9 +1,9 @@
 
 
 {
-    "platform":[
+    "test":[
         {"id": 1, 
-        "name": "NES",
+        "name": "test",
         "year": 1983 },
         {"id": 2, 
         "name": "XBOX",
